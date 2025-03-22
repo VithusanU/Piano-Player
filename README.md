@@ -1,4 +1,4 @@
-**Piano Game**
+#Piano Game
 
 An interactive piano game built with HTML, CSS, and JavaScript to help beginner-level piano students study musical notes. This project uses DOM events to create a fun, engaging learning experience.
 
